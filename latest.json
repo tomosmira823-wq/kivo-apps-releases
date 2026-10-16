@@ -1,4 +1,10 @@
 {
+  "KivoLight": {
+    "notes": "",
+    "sha256": "e61c86ef3444304432ef3aab988dea9c3270872da36efaf609390b681910a91d",
+    "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoLight/KivoLight-0.8.0-windows-x64-setup.exe",
+    "version": "0.8.0"
+  },
   "KivoPDF": {
     "notes": "",
     "sha256": "026ecca4d3be50d9a8db2798bb6fbeab4c7a084f17629a75c6d650600c667bd7",
