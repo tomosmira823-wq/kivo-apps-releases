@@ -11,6 +11,12 @@
     "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoLight/KivoLight-0.8.0-windows-x64-setup.exe",
     "version": "0.8.0"
   },
+  "KivoMotion": {
+    "notes": "",
+    "sha256": "f7d0cf4926481ca0f90d36645f219c3b85ff8f7333a7234fcb741f54297c0cc1",
+    "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoMotion/KivoMotion-0.10.0-windows-x64-setup.exe",
+    "version": "0.10.0"
+  },
   "KivoPDF": {
     "notes": "",
     "sha256": "026ecca4d3be50d9a8db2798bb6fbeab4c7a084f17629a75c6d650600c667bd7",
