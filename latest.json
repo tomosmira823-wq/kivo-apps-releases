@@ -1,4 +1,10 @@
 {
+  "KivoFilm": {
+    "notes": "",
+    "sha256": "7a92f59b7912638d3fa736b396712e0abfa82596fc8fbe298e86ce9fee370028",
+    "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoFilm/KivoFilm-0.8.0-windows-x64-setup.exe",
+    "version": "0.8.0"
+  },
   "KivoLight": {
     "notes": "",
     "sha256": "e61c86ef3444304432ef3aab988dea9c3270872da36efaf609390b681910a91d",
