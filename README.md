@@ -4,6 +4,7 @@ Windows installers for the Kivo apps from Kivo Studio (https://kivostudio.uk). T
 
 | App | Version | Installer |
 |---|---|---|
+| KivoPDF | 0.8.0 | [Download](https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoPDF/KivoPDF-0.8.0-windows-x64-setup.exe) |
 | KivoWrite | 0.7.0 | [Download](https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoWrite/KivoWrite-0.7.0-windows-x64-setup.exe) |
 
 ## Releasing an update

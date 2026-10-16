@@ -1,4 +1,10 @@
 {
+  "KivoPDF": {
+    "notes": "",
+    "sha256": "026ecca4d3be50d9a8db2798bb6fbeab4c7a084f17629a75c6d650600c667bd7",
+    "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoPDF/KivoPDF-0.8.0-windows-x64-setup.exe",
+    "version": "0.8.0"
+  },
   "KivoWrite": {
     "notes": "",
     "sha256": "992b1330bad020b96f0d832953876076d1ccb12f3c5549b1bac2ec564d6fa8ba",
