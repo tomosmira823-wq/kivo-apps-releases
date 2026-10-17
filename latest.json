@@ -1,14 +1,8 @@
 {
   "KivoFilm": {
     "notes": "",
-    "sha256": "7a92f59b7912638d3fa736b396712e0abfa82596fc8fbe298e86ce9fee370028",
+    "sha256": "3e38fc764ada6a7c4a4c4c68d157617962e42cff2285f14407791d53c2a3802f",
     "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoFilm/KivoFilm-0.8.0-windows-x64-setup.exe",
-    "version": "0.8.0"
-  },
-  "KivoLayout": {
-    "notes": "",
-    "sha256": "62285cd25e0dfc189f636cddaf9c2fb4866586574b5b96685f19727d5648ed3a",
-    "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoLayout/KivoLayout-0.8.0-windows-x64-setup.exe",
     "version": "0.8.0"
   },
   "KivoLight": {
@@ -16,12 +10,6 @@
     "sha256": "e61c86ef3444304432ef3aab988dea9c3270872da36efaf609390b681910a91d",
     "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoLight/KivoLight-0.8.0-windows-x64-setup.exe",
     "version": "0.8.0"
-  },
-  "KivoMotion": {
-    "notes": "",
-    "sha256": "f7d0cf4926481ca0f90d36645f219c3b85ff8f7333a7234fcb741f54297c0cc1",
-    "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoMotion/KivoMotion-0.10.0-windows-x64-setup.exe",
-    "version": "0.10.0"
   },
   "KivoPDF": {
     "notes": "",
@@ -34,12 +22,6 @@
     "sha256": "174be1aab6a377bec52c969b766495c0b1657dfc5229068ea76f82e79c8460d6",
     "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoPhoto/KivoPhoto-0.9.0-windows-x64-setup.exe",
     "version": "0.9.0"
-  },
-  "KivoVector": {
-    "notes": "",
-    "sha256": "2be3482df766c2e2760d4ed7bf37c1cad74bf085314ab8809424095921047e01",
-    "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoVector/KivoVector-0.12.0-windows-x64-setup.exe",
-    "version": "0.12.0"
   },
   "KivoWrite": {
     "notes": "",
