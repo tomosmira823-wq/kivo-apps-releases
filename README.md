@@ -5,6 +5,7 @@ Windows installers for the Kivo apps from Kivo Studio (https://kivostudio.uk). T
 | App | Version | Installer |
 |---|---|---|
 | KivoFilm | 0.8.0 | [Download](https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoFilm/KivoFilm-0.8.0-windows-x64-setup.exe) |
+| KivoLayout | 0.8.0 | [Download](https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoLayout/KivoLayout-0.8.0-windows-x64-setup.exe) |
 | KivoLight | 0.8.0 | [Download](https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoLight/KivoLight-0.8.0-windows-x64-setup.exe) |
 | KivoPDF | 0.8.0 | [Download](https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoPDF/KivoPDF-0.8.0-windows-x64-setup.exe) |
 | KivoPhoto | 0.9.0 | [Download](https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoPhoto/KivoPhoto-0.9.0-windows-x64-setup.exe) |
