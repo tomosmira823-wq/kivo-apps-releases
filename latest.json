@@ -35,6 +35,12 @@
     "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoPhoto/KivoPhoto-0.9.0-windows-x64-setup.exe",
     "version": "0.9.0"
   },
+  "KivoVector": {
+    "notes": "",
+    "sha256": "1b94f215c37d2e5d5b9b264510599335caced4bc7a7bb3504e14af3ef94f2a2b",
+    "url": "https://raw.githubusercontent.com/tomosmira823-wq/kivo-apps-releases/main/KivoVector/KivoVector-0.12.0-windows-x64-setup.exe",
+    "version": "0.12.0"
+  },
   "KivoWrite": {
     "notes": "",
     "sha256": "992b1330bad020b96f0d832953876076d1ccb12f3c5549b1bac2ec564d6fa8ba",
